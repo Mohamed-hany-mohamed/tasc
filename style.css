@@ -1,0 +1,64 @@
+  body{
+background-color: black;
+
+} 
+
+
+header{
+
+
+justify-content: space-between;
+width: 1000px;  
+margin: 100px; ;
+padding:50px 100px ;
+display: flex;
+
+}
+
+.s{
+    color: aliceblue;
+    font-size: 50px;
+    
+}
+.m{
+color: aliceblue;
+font-size: 25px;
+
+
+}
+.hh{
+  color: aliceblue;
+ 
+}
+section { 
+
+  color: aliceblue;
+  margin: auto;
+  justify-content: space-between;
+width: 1000px;  
+margin: 100px; ;
+padding:50px 100px ;
+display: flex;
+
+
+}
+footer{
+  
+  color: aliceblue;
+  margin: auto;
+  justify-content: space-between;
+width: 1000px;  
+margin: 100px; ;
+padding:50px 100px ;
+display: flex;
+
+
+
+}
+
+.vv{
+  width: 100px;
+  margin:0px 100px 50px 50px;
+
+}
+
